@@ -1,7 +1,5 @@
 # Lenguaje-de-marcas
 ***
-***Holaa***
-{(https://educacionadistancia.juntadeandalucia.es/centros/granada/login/index.php)}
 ## Encabezado 2
 ***
 1. primero

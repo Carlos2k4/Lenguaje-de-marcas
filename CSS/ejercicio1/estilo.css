@@ -1,0 +1,22 @@
+h1,h2,h3{
+    color: red;
+}
+h1{
+    font-size: 4em;
+}
+h2{
+    font-size: 3em;
+}
+h3{
+    font-size: 2em;
+}
+.parrafo1{
+    font-size: 10em;
+    color: yellow;
+    align-content: center;
+    background-color: red;
+}
+.parrafo2{
+    background-color: goldenrod;
+    height: 100px;
+}

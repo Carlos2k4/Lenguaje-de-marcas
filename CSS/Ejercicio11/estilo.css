@@ -1,0 +1,6 @@
+.lista1{
+    list-style: lower-roman;
+}
+.lista2{
+    list-style: url('real_Madrid.png') inside;
+}

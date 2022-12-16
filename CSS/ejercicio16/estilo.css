@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+}
+.cabezera .logo{
+    float: left;
+    width: 49%;
+    height: 150px;
+}
+.cabezera .logo h1{
+    color: red;
+
+}
+.cabezera .logo h4{
+    color: blue;
+}
+.cabezera .usuario{
+    float: right;
+    width: 49%;
+    height:150px;
+}
+
+.datosPersonales{
+    float: left;
+    color:rgb(66, 66, 173);
+    height: 500px;
+    width: 49%;
+
+}
+.opcionMenu{
+    width: 49%;
+    height: 500px;
+    float: right;
+    color: rgb(66, 66, 173);
+    
+}

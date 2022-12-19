@@ -1,0 +1,83 @@
+body{
+    margin:0;
+}
+.header{
+    width: 100%;
+    height: 100px;
+
+}
+
+.producto1{
+    margin-left: 9%;
+    width:40%;
+    float: left;
+}
+.producto2{
+    width:40%;
+    float: left;
+}
+.producto{
+    width: 100%;
+    height: 200px;
+    border: 1px solid black;
+}
+.madrid{
+    width:25%;
+    float: left;
+}
+.opcionesProducto1{
+    margin-left:3%;
+    width: 65%;
+    height: 200px;
+    float:left;
+}
+.nombreProducto{
+    padding:0;
+    display: block;
+    width: 80%;
+    float:right;
+}
+.salir img{
+    width: 100%;
+}
+.salir{
+    margin: 3%;
+    width: 5%;
+    display: block;
+    float: right;
+    
+}
+ .precioProducto{
+
+    display: block;
+    clear: both;
+    float: right;
+    padding:0;
+ }  
+.coloresProducto{
+    width: 70%;
+    float: left;
+
+}
+.coloresProducto li{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 12px;
+    margin: 2%;
+
+}
+.blanca{
+    border: 2px solid rgb(148, 80, 226);
+    background-color: white;
+}
+.azul{
+    border: 2px solid orangered;
+    background-color: blue;
+
+}
+.negra{
+    border: 2px solid greenyellow;
+    background-color: black;
+    
+}

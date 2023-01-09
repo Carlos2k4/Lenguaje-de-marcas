@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.capa{
+    width: 800px;
+    height: 300px;
+    margin: auto;
+}
+.cuerpo{
+    margin-top:-1%;
+    width: 800px;
+    height: 250px;
+    background-color: rgb(54,62,76);
+    color: azure;
+}
+.cabecera{
+    height: 50px;
+    text-align: center;
+}
+.texto{
+   height: 250px;
+   padding: 1% 5%;
+}

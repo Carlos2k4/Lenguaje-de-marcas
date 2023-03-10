@@ -1,0 +1,17 @@
+<cancion Duracion="4,47" anio="2008">
+    <titulo> Give it 2 me</titulo>
+    <compositores>
+        <compositor>
+            <nombre>Pharell</nombre>
+            <apellidos>Williams</apellidos>
+        </compositor>
+    </compositores>
+    <productores>
+        <productor>
+            <nombre>Pharell</nombre>
+            <apellidos>Williams</apellidos>
+        </productor>
+    </productores>
+    <sello>Warner Bros. Record</sello>
+    <artista>Madona</artista>
+</cancion>

@@ -1,0 +1,17 @@
+<?xml-stylesheet href="estilo.css"?>
+<mensaje xmlns="miCorreo">
+    <remitente>
+        <nombre>Pepe Cohete</nombre>
+        <email>pepecohete@gmail.com</email>
+    </remitente>
+    <destinatario>
+        <nombre>Paco mer</nombre>
+        <email>pacomerhete@gmaill.com</email>
+    </destinatario>
+    <asunto>viaje Alomartes</asunto>
+    <texto>
+        <parrafo>Hola Paco</parrafo>
+        <parrafo>Ves preparando la mochila que nos vamos</parrafo>
+        <parrafo>Nos vemos maña.Adios</parrafo>
+    </texto>
+</mensaje>

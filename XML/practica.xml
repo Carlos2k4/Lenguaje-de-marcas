@@ -1,0 +1,33 @@
+<pl>
+    <cancion>
+    Thriller
+    <Autor>Michael Jackson</Autor>
+    <Duracion>3:30</Duracion>
+    <Album>Thriller</Album>
+    <Año>1982</Año>
+    </cancion>
+
+    <cancion>
+    Bohemian Rhapsody
+    <Autor> Queens</Autor>
+    <Duracion>7:00</Duracion>
+    <Album>A Night at the opera</Album>
+    <Año>1975</Año>
+    </cancion>
+
+    <cancion>
+    &gt;3
+    <Autor> Bad Bunny</Autor>
+    <Duracion>2:30</Duracion>
+    <Album>YHLQMDLG</Album>
+    <Año>2020</Año>
+    </cancion>
+    <cancion>
+        &gt;3
+        <Autor papel="Propietario">Mora</Autor>
+        <Autor papel="Colaborador">Feid</Autor>
+        <Duracion>2:30</Duracion>
+        <Album>Microdosis</Album>
+        <Año>2021</Año>
+        </cancion>
+</pl>

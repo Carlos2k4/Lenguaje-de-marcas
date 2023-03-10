@@ -1,0 +1,16 @@
+<mensaje xmlns="miCorreo">
+    <remitente>
+        <nombre></nombre>
+        <email></email>
+    </remitente>
+    <destinatario>
+        <nombre></nombre>
+        <email></email>
+    </destinatario>
+    <asunto></asunto>
+    <texto>
+        <parrafo></parrafo>
+        <parrafo></parrafo>
+        <parrafo></parrafo>
+    </texto>
+</mensaje>
